@@ -1,0 +1,4 @@
+Git init để khởi tạo Git.
+Git add <file_name> để add 1 file cụ thể từ working directory vào staging area.
+Git add . để add tất cả file có chỉnh sửa hoặc thêm mới từ working directory vào staging area.
+Git commit -m "message" là để commit các file đã được add trước đó ở staging area, commit lên repository, trong đó "message" là tên commit muốn đặt.

@@ -1,0 +1,3 @@
+file1 ở vùng repository.
+file2 ở vùng working directory.
+file3 ở vùng working directory.
