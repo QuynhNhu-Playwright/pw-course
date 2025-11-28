@@ -1,0 +1,5 @@
+a: khởi tạo git.
+b: tạo 3 file: file1.txt, file2.txt, oops/file3.txt - vùng working directory.
+c: thêm file .gitignore - file1.txt, file2.txt, oops/file3.txt, .gitignore - vùng working directory.
+d: lệnh git add all - file2.txt, .gitignore - vùng stgaing area, file1.txt, oops/file3.txt - vùng working directory.
+e: lệnh git commit - file2.txt, .gitignore vùng repository, file1.txt, oops/file3.txt - vùng working directory.

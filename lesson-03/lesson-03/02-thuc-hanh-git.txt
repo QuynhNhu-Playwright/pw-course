@@ -1,0 +1,9 @@
+a: Tạo 3 file: file1, file2, file3 - 3 files ở vùng local.
+b: khởi tạo git.
+c: 3 file vẫn chưa được add - 3 files vùng working directory.
+d: add file1 - file1 vùng staging area.
+e: commit file1 - file1 vùng repository.
+f: lệnh add all - file2, file3 staging area.
+g: lệnh git restore file2 - file 2 chưa commit - file2 ko có gì thay đổi.
+h: lệnh git commit - file2, file3 - vùng repository.
+i: lệnh git reset - hủy commit cuối của file2, file3 - file2, file3 về vùng staging area.
